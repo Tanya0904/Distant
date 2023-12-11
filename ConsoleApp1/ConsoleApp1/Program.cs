@@ -13,9 +13,9 @@ namespace ConsoleApp1
             int a = 8;
             int b = 10;
             int c = a + b;
-
+            int d = a - b;
             Console.WriteLine(c);
-
+            Console.WriteLine(d);
         }
     }
 }
